@@ -48,6 +48,63 @@ Un slideshow fullscreen inspiré du style **Old Soul Tattoo Studio** de Slider R
 
 ---
 
+## Stack technique
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Technologie</th>
+      <th align="center">Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>
+        <b>HTML5</b>
+      </td>
+      <td>Structure des slides, sémantique, SVG inline</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>
+        <b>CSS3</b>
+      </td>
+      <td>Animations, transitions, variables CSS, responsive design</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
+        <b>JavaScript</b>
+      </td>
+      <td>Autoplay, navigation, barre de progression, swipe tactile</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Google Fonts"/><br/>
+        <b>Google Fonts</b>
+      </td>
+      <td>Typographies Playfair Display & Inter</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+        <b>Git</b>
+      </td>
+      <td>Versioning et gestion du code source</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
+        <b>GitHub</b>
+      </td>
+      <td>Hébergement du dépôt et déploiement</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## Structure du projet
 
 ```
