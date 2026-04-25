@@ -164,5 +164,5 @@ python -m http.server 8080
 ---
 
 <div align="center">
-  <img src="signature.svg" alt="Institut Spécialisé de Technologie Appliquée" />
+  <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/q_auto/f_auto/v1777112116/signature_lprwxh.svg" alt="Institut Spécialisé de Technologie Appliquée" />
 </div>
