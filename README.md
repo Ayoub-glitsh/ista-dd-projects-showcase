@@ -11,6 +11,11 @@
 
 ## Aperçu
 
+
+<p align="center">
+  <img src="./images/dashboard.png" alt="Dashboard Preview" width="500"/>
+</p>
+
 Un slideshow fullscreen inspiré du style **Old Soul Tattoo Studio** de Slider Revolution, entièrement repensé aux couleurs OFPPT (bleu, teal, blanc). Il présente 7 projets digitaux développés par les étudiants de la filière DD entre 2009 et 2024.
 
 ---
