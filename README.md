@@ -51,7 +51,7 @@ Un slideshow fullscreen inspiré d'un template de **Slider Revolution**, entièr
 - Palette de couleurs officielle OFPPT (bleu `#1a9fd4`, teal `#2db89e`, bleu marine `#0056a3`)
 
 ---
-
+ 
 ## Stack technique
 
 <table>
