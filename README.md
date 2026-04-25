@@ -32,6 +32,8 @@
   <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/q_auto/f_auto/v1777109921/screenshot_du_projet_k6h9mh.png" alt="Dashboard Preview" width="800"/>
 </p>
 
+👉 Voir le projet ici : [🌐 Démo en direct](https://venerable-daifuku-d40cc8.netlify.app/) | [🌐 Démo en direct](https://ista-dd-projects-showcase.vercel.app/)
+
 Un slideshow fullscreen inspiré d'un template de **Slider Revolution**, entièrement repensé aux couleurs OFPPT (bleu, teal, blanc). Il présente 7 projets digitaux développés par les étudiants de la filière DD entre 2009 et 2024.
 
 ---
