@@ -1,0 +1,84 @@
+# ISTA Ouarzazate — DD Projects Showcase
+
+> Slideshow interactif des projets réalisés par les lauréats de la filière **Développement Digital** de l'ISTA Ouarzazate (2009 – 2024).
+
+![OFPPT](https://img.shields.io/badge/OFPPT-ISTA%20Ouarzazate-1a9fd4?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## Aperçu
+
+Un slideshow fullscreen inspiré du style **Old Soul Tattoo Studio** de Slider Revolution, entièrement repensé aux couleurs OFPPT (bleu, teal, blanc). Il présente 7 projets digitaux développés par les étudiants de la filière DD entre 2009 et 2024.
+
+---
+
+## Projets présentés
+
+| Année | Projet | Domaine |
+|-------|--------|---------|
+| 2009 | Application de gestion de musée cinématographique | Patrimoine & Culture |
+| 2010 | Application de gestion de cabinet de casting | Cinéma & Casting |
+| 2012 | Portail de promotion touristique d'Ouarzazate | Tourisme & Promotion |
+| 2014 | Application web de gestion d'agences de location de voiture | Transport & Mobilité |
+| 2016 | Application de détection et alertes d'incendie | Sécurité & Prévention |
+| 2023 | Application web de gestion des coopératives agricoles | Agriculture & Coopératives |
+| 2024 | Application de gestion du centre culturel d'Ouarzazate | Culture & Art |
+
+---
+
+## Fonctionnalités
+
+- Slideshow fullscreen avec **7 slides animées**
+- Transitions fluides avec effet **Ken Burns** sur les images
+- Animations d'entrée en cascade (titre, sous-titre, description, CTA)
+- **Barre de progression** avec autoplay (6s par slide)
+- Navigation par **boutons**, **clavier** (←→) et **swipe tactile**
+- Dots de navigation latéraux avec affichage de l'année
+- Logo OFPPT en **SVG inline** (aucune dépendance externe)
+- Design **100% responsive** (mobile, tablette, desktop)
+- Palette de couleurs officielle OFPPT (bleu `#1a9fd4`, teal `#2db89e`, bleu marine `#0056a3`)
+
+---
+
+## Structure du projet
+
+```
+ista-dd-projects-showcase/
+├── index.html      # Structure HTML + slides
+├── style.css       # Styles, animations, responsive
+└── script.js       # Logique slideshow (autoplay, navigation, dots)
+```
+
+---
+
+## Lancer le projet
+
+Aucune dépendance, aucun build requis.
+
+**Option 1 — Ouvrir directement**
+```
+Double-clic sur index.html
+```
+
+**Option 2 — Serveur local**
+```bash
+npx serve .
+# ou
+python -m http.server 8080
+```
+
+---
+
+## Encadrement
+
+- **Formateur :** Said GAHI — Formateur en Développement Digital
+- **Institut :** ISTA Ouarzazate — Institut Spécialisé de Technologie Appliquée
+- **Organisme :** OFPPT — La voie de l'avenir
+- **Site :** [www.ofppt.ma](https://www.ofppt.ma)
+
+---
+
+*L'innovation d'aujourd'hui, le développement de demain.*
