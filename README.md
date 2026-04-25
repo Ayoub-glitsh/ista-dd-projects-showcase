@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1A9FD4&center=true&vCenter=true&width=800&lines=L'innovation+des+laur%C3%A9ats+de+ISTA+Ouarzazate" />
+</p>
+
 # ISTA Ouarzazate — DD Projects Showcase
 
 > Slideshow interactif des projets réalisés par les lauréats de la filière **Développement Digital** de l'ISTA Ouarzazate (2009 – 2024).
