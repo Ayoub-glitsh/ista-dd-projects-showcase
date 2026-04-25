@@ -160,3 +160,9 @@ python -m http.server 8080
 ---
 
 *L'innovation d'aujourd'hui, le développement de demain.*
+
+---
+
+<div align="center">
+  <sub>Institut Spécialisé de Technologie Appliquée — Ouarzazate</sub>
+</div>
