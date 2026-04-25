@@ -164,5 +164,5 @@ python -m http.server 8080
 ---
 
 <div align="center">
-  <sub>Institut Spécialisé de Technologie Appliquée — Ouarzazate</sub>
+  <img src="signature.svg" alt="Institut Spécialisé de Technologie Appliquée" />
 </div>
